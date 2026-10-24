@@ -1,0 +1,3 @@
+PLATE_MIN_AREA=500
+INPUT_FOLDER="input_images"
+OUTPUT_FOLDER="output"
